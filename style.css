@@ -125,7 +125,7 @@ header.shadow {
   grid-template-columns: 0.2fr 2fr 1fr;
   align-items: center;
   gap: 1rem;
-  background-image: url('/IMG/E.jpg'); /* Replace with your image path */
+  background-image: url('E.jpg'); /* Replace with your image path */
   background-size: cover; /* Adjust to fit the background */
   background-position: center; /* Center the image */
  
