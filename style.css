@@ -115,6 +115,7 @@ header.shadow {
   cursor: pointer;
   z-index: 10001;
   display: none;
+    background-color: rgb(18, 16, 37);
 }
 
 .home {
